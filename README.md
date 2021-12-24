@@ -39,5 +39,5 @@ Final project must have inputs with types date, number, text, radio, checkbox.
 
 # 10)
   
-Some HTML elements must be styled by Vue.js framework.
+Some HTML elements must be styled by Vue.js framework
 
